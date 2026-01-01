@@ -1,3 +1,19 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?
+  font=Fira+Code&
+  size=24&
+  pause=1000&
+  color=00FFD1&
+  center=true&
+  vCenter=true&
+  width=600&
+  lines=Security+Engineer;
+  Penetration+Tester;
+  Web+%7C+API+%7C+Android+Pentesting;
+  CTF+Player+%7C+Bug+Bounty+Learner" />
+</p>
+
+
 ## Hi there 👋 I'm Samruth Sriram
 
 🔐 Security Engineer | Penetration Testing (Web • Mobile • API • Network)  
