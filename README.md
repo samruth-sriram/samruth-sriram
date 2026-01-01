@@ -44,6 +44,12 @@
 - Practical VAPT reporting and remediation best practices  
 
 ### 🛠 Technical Skills
+### 🛠 Skills & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,linux,bash,js,html,css,androidstudio,git" />
+</p>
+
 - **Security:** Web, Mobile (Android), API & Network VAPT, Cloud & AD Pentesting (In Progress)  
 - **Programming:** Python, C, HTML, CSS, JavaScript
 
