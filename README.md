@@ -21,21 +21,22 @@ Passionate about **Security Blogging**, **CTFs**, and **Vulnerability Research**
 
 <br>
 
+<h4>🎯 Current Focus Areas</h4>
 <p>
-🎯 <b>Currently focused on</b><br>
-<b>Network Pentesting</b> · <b>Cloud Security</b> · <b>Active Directory</b>
+<b>Network Penetration Testing</b> · <b>Cloud Security</b> · <b>Active Directory Security</b>
 </p>
 
 <br>
 
+<h4>🚀 Professional Interests</h4>
 <p>
-🚀 <b>Passionate about</b><br>
-<b>Security Blogging</b> · <b>CTFs</b> · <b>Vulnerability Research</b>
+<b>Security Blogging</b> · <b>Bug Hunting</b> · <b>Vulnerability Research</b>
 </p>
 
 <hr width="55%">
 
 </div>
+
 
 
 ---
