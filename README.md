@@ -9,6 +9,7 @@
 
 ### 🔐 Security Engineer | Web | Mobile (Android) | API Penetration Testing  
 Currently focused on **Network Pentesting**, **Cloud Security**, **Active Directory**
+<br>
 Passionate about **Security Blogging**, **CTFs**, and **Vulnerability Research**
 
 </div>
