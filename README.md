@@ -27,21 +27,21 @@
 <!-- ===================== CURRENT WORK ===================== -->
 ### 🔭 Currently Working On
 - End-to-end **Vulnerability Assessment & Penetration Testing (VAPT)** for Web, Mobile (Android), and API applications  
-- Manual security testing, report writing, and reassessment across real client environments  
-- Clear communication of security risks, business impact, and remediation guidance  
+- Manual Security testing, Report writing, and Reassessment across real client environments  
+- Clear communication of Security risks, Business impact, and Remediation guidance  
 
 ### 🌱 Currently Learning
 - Cloud Security & Cloud Penetration Testing  
-- Active Directory (AD) enumeration and exploitation  
-- Exploit techniques, attack chaining, and Python-based security automation  
+- Active Directory (AD) Enumeration and Exploitation  
+- Exploit techniques, Attack chaining, and Python-based Security Automation  
 
 ---
 
 <!-- ===================== ASK ME ABOUT ===================== -->
 ### 💬 Ask Me About
 - Web Application Penetration Testing  
-- Network & API Security 
-- Android Application Penetration Testing  
+- Network & API Security Testing
+- Mobile Application Penetration Testing  
 - CTF methodologies & practical exploitation  
 - Writing clear, actionable penetration testing reports  
 
