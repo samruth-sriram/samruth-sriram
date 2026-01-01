@@ -8,9 +8,9 @@
 <div align="center">
 
 ### 🔐 Security Engineer | Web | Mobile (Android) | API Penetration Testing  
-🎯 <b>Current Focus Areas</b> **· Network Pentesting** **· Cloud Security**, **· Active Directory**
+🎯 <b>Current Focus Areas</b> **· Network Pentesting** **· Cloud Security** **· Active Directory**
 <br>
-🚀 <b>Professional Interests</b> **· Security Blogging**, **· Bug Hunting**, and **· Vulnerability Research**
+🚀 <b>Professional Interests</b> **· Security Blogging** **· Bug Hunting** **· Vulnerability Research**
 
 </div>
 
@@ -26,8 +26,8 @@
 
 <!-- ===================== CURRENT WORK ===================== -->
 ### 🔭 Currently Working On
-- End-to-end **Vulnerability Assessment & Penetration Testing (VAPT)** for Web, Mobile (Android), and API applications  
-- Manual Security testing, Report writing, and Reassessment across real client environments  
+- End-to-end **Vulnerability Assessment & Penetration Testing (VAPT)** for **Web, Mobile (Android), and API applications**  
+- **Manual Security testing**, Report writing, and Reassessment across real client environments  
 - Clear communication of Security risks, Business impact, and Remediation guidance  
 
 ### 🌱 Currently Learning
@@ -43,14 +43,14 @@
 - Network & API Security Testing
 - Mobile Application Penetration Testing  
 - CTF methodologies & practical exploitation  
-- Writing clear, actionable penetration testing reports  
+- Writing clear, actionable Penetration Testing reports  
 
 ---
 
 <!-- ===================== PRACTICE & RESEARCH ===================== -->
 ### 🧠 Practice & Research
-🏴‍☠️ Active participant in public CTFs (Bugforge, TryHackMe, etc.)  
-✍️ Writing security blogs on Medium covering recent findings and learnings  
+🏴‍☠️ Active participant in **Public CTFs** (Bugforge, TryHackMe, etc.)  
+✍️ Writing **Security Blogs** on Medium covering recent findings and learnings  
 🧪 Continuous hands-on practice with real-world inspired vulnerabilities  
 
 ---
@@ -58,7 +58,7 @@
 <!-- ===================== FREELANCE ===================== -->
 ### 💼 Freelance & Collaboration
 <p align="center">
-Open to <b>freelance penetration testing</b>, short-term <b>security assessment engagements</b>,  
+Open to <b>Freelance Penetration Testing</b>, short-term <b>Security Assessment Engagements</b>,  
 and collaborative security research opportunities.
 </p>
 
