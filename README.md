@@ -1,13 +1,13 @@
 <!-- ===================== ANIMATED INTRO ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=24&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&lines=Hi+There,+I+am+Samruth+Sriram;Security+Engineer;Web+%7C+Mobile+%7C+API+Penetration+Testing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&lines=Hi+There,+I+am+Samruth+Sriram;Security+Engineer;Web+%7C+Mobile+%7C+API+Penetration+Testing" />
 </p>
 
 <!-- ===================== SHORT DESCRIPTION ===================== -->
 <p align="center">
-<b>Security Engineer</b> specializing in <b>Web, Mobile (Android), API and Network Penetration Testing</b>.  
-Hands-on experience in real-world VAPT engagements, public CTFs, and security research —  
-focused on identifying impactful vulnerabilities and communicating risk effectively.
+<b>Security Engineer</b> with hands-on expertise in <b>Web, Mobile (Android), API, and Network Penetration Testing</b>.  
+Experienced in executing real-world VAPT engagements, participating in public CTFs, and conducting security research —  
+with a strong focus on uncovering high-impact vulnerabilities and delivering clear, actionable risk insights.
 </p>
 
 ---
