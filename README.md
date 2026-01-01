@@ -8,9 +8,9 @@
 <div align="center">
 
 ### 🔐 Security Engineer | Web | Mobile (Android) | API Penetration Testing  
-🎯 Current Focus Areas - **· Network Pentesting** **· Cloud Security**, **· Active Directory**
+🎯 <b>Current Focus Areas</b> **· Network Pentesting** **· Cloud Security**, **· Active Directory**
 <br>
-🚀 Professional Interests - **· Security Blogging**, **· Bug Hunting**, and **· Vulnerability Research**
+🚀 <b>Professional Interests</b> **· Security Blogging**, **· Bug Hunting**, and **· Vulnerability Research**
 
 </div>
 
