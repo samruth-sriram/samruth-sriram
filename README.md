@@ -14,6 +14,29 @@ Passionate about **Security Blogging**, **CTFs**, and **Vulnerability Research**
 
 </div>
 
+<!-- ===================== HEADLINE DESCRIPTION ===================== -->
+<div align="center">
+
+<h3>🔐 Security Engineer | Web | Mobile (Android) | API Penetration Testing</h3>
+
+<br>
+
+<p>
+🎯 <b>Currently focused on</b><br>
+<b>Network Pentesting</b> · <b>Cloud Security</b> · <b>Active Directory</b>
+</p>
+
+<br>
+
+<p>
+🚀 <b>Passionate about</b><br>
+<b>Security Blogging</b> · <b>CTFs</b> · <b>Vulnerability Research</b>
+</p>
+
+<hr width="55%">
+
+</div>
+
 
 ---
 
