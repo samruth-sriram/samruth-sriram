@@ -23,7 +23,6 @@ Passionate about **Security Blogging**, **CTFs**, and **Vulnerability Research**
 <p>
 <b>Network Penetration Testing</b> · <b>Cloud Security</b> · <b>Active Directory Security</b>
 </p>
-<br>
 <h4>🚀 Professional Interests</h4>
 <p>
 <b>Security Blogging</b> · <b>Bug Hunting</b> · <b>Vulnerability Research</b>
