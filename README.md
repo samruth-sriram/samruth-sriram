@@ -1,7 +1,7 @@
 
 <!-- ===================== ANIMATED INTRO ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&lines=Hi+There,+I+am+Samruth+Sriram;Security+Engineer;Web+%7C+Mobile+%7C+API+Penetration+Testing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&lines=Hi+There,+I+am+Samruth+Sriram;Security+Engineer;Web+%7C+Mobile+%7C+API+Penetration+Testing" />
 </p>
 
 <!-- ===================== HEADLINE DESCRIPTION ===================== -->
@@ -12,6 +12,10 @@ Currently focused on <b>Network Pentesting</b> | <b>Cloud Security</b> | <b>Acti
 <br/>
 Passionate about <b>Security Blogging</b> | <b>CTFs</b> | <b>Vulnerability Research</b>
 </p>
+
+### 🔐 Security Engineer | Web | Mobile (Android) | API Penetration Testing  
+Currently focused on **Network Pentesting**, **Cloud Security**, **Active Directory**  
+Passionate about **Security Blogging**, **CTFs**, and **Vulnerability Research**
 
 ---
 
