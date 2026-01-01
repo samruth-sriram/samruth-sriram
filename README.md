@@ -1,19 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-  font=Fira+Code&
-  size=24&
-  pause=1000&
-  color=00FFD1&
-  center=true&
-  vCenter=true&
-  width=600&
-  lines=Security+Engineer;
-  Penetration+Tester;
-  Web+%7C+API+%7C+Android+Pentesting;
-  CTF+Player+%7C+Bug+Bounty+Learner" />
-</p>
-
-
 ## Hi there 👋 I'm Samruth Sriram
 
 🔐 Security Engineer | Penetration Testing (Web • Mobile • API • Network)  
@@ -21,16 +5,15 @@
 
 ---
 
-### 🔭 I’m currently working on
-- Delivering end-to-end Vulnerability Assessment & Penetration Testing (VAPT) for Web, Mobile (Android), and API applications  
-- Conducting structured security assessments including scope validation, manual testing, reporting, and reassessment  
-- Collaborating with clients and internal teams to communicate risk, impact, and remediation guidance effectively  
+### 🔭 Currently Working On
+- End-to-end **VAPT engagements** for Web, Mobile (Android) & API applications  
+- Manual security testing, reporting, and reassessment for real clients  
+- Communicating risk, impact, and remediation with stakeholders  
 
-### 🌱 I’m currently learning
-- Cloud security fundamentals and Cloud Penetration Testing  
-- Active Directory (AD) enumeration and exploitation techniques  
-- Exploit development concepts and Attack chaining  
-- Security automation and tooling using Python  
+### 🌱 Currently Learning
+- Cloud & Active Directory Pentesting  
+- Exploit techniques and attack chaining  
+- Python-based security automation  
 
 ### 👯 I’m looking to collaborate on
 - Open-source security tools and automation frameworks  
@@ -43,7 +26,6 @@
 - Android Application Penetration Testing  
 - Practical VAPT reporting and remediation best practices  
 
-### 🛠 Technical Skills
 ### 🛠 Skills & Technologies
 
 <p align="left">
@@ -63,11 +45,23 @@
 - 🧠 **CTFs & Hands-on Practice**  
   Active participant in public CTFs (Bugforge, TryHackMe, etc.), focusing on real-world exploitation techniques  
 
-### 📫 How to reach me
-- LinkedIn: https://linkedin.com/in/samruthsriram-cybersecurity  
-- Medium: https://samruthsriram.medium.com  
-- GitHub: https://github.com/samruth-sriram  
+### 📫 Connect With Me
+
+<p>
+  <a href="https://linkedin.com/in/samruthsriram-cybersecurity">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://samruthsriram.medium.com">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium"/>
+  </a>
+  <a href="https://github.com/samruth-sriram">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
 
 ---
+
+💼 Open to freelance penetration testing and short-term security assessment engagements.
 
 ⚡ Fun fact: I enjoy responsibly breaking systems and automating repetitive security tasks to improve assessment efficiency.
