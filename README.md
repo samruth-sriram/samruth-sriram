@@ -5,20 +5,17 @@
 </p>
 
 <!-- ===================== HEADLINE DESCRIPTION ===================== -->
-<p align="center">
-<b>Security Engineer</b> | Web | Mobile (Android) | API Penetration Testing  
-<br/>
-Currently focused on <b>Network Pentesting</b> | <b>Cloud Security</b> | <b>Active Directory</b>  
-<br/>
-Passionate about <b>Security Blogging</b> | <b>CTFs</b> | <b>Vulnerability Research</b>
-</p>
+<div align="center">
 
-<h3 align="center">🔐 Security Engineer | Web | Mobile (Android) | API Penetration Testing</h3>
-<p align="center">
-  Currently focused on <b>Network Pentesting</b>, <b>Cloud Security</b>, <b>Active Directory</b><br>
-  
-  Passionate about <b>Security Blogging</b>, <b>CTFs</b>, and <b>Vulnerability Research</b>
-</p>
+### 🔐 Security Engineer | Web | Mobile (Android) | API Penetration Testing  
+Currently focused on **Network Pentesting**, **Cloud Security**, **Active Directory**
+
+<br>
+
+Passionate about **Security Blogging**, **CTFs**, and **Vulnerability Research**
+
+</div>
+
 
 ---
 
