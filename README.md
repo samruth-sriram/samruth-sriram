@@ -13,11 +13,14 @@ Currently focused on <b>Network Pentesting</b> | <b>Cloud Security</b> | <b>Acti
 Passionate about <b>Security Blogging</b> | <b>CTFs</b> | <b>Vulnerability Research</b>
 </p>
 
-<p align="center">
-  ### 🔐 Security Engineer | Web | Mobile (Android) | API Penetration Testing  
-  Currently focused on **Network Pentesting**, **Cloud Security**, **Active Directory**  
-  Passionate about **Security Blogging**, **CTFs**, and **Vulnerability Research**
-</p>
+<div align="center">
+
+### 🔐 Security Engineer | Web | Mobile (Android) | API Penetration Testing  
+Currently focused on **Network Pentesting**, **Cloud Security**, **Active Directory**  
+Passionate about **Security Blogging**, **CTFs**, and **Vulnerability Research**
+
+</div>
+
 ---
 
 <!-- ===================== SKILLS ===================== -->
