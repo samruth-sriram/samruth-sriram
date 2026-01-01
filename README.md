@@ -12,7 +12,6 @@
 <p>
 Currently focused on <b>Network Pentesting</b>, <b>Cloud Security</b>, <b>Active Directory</b>
 </p>
-
 <p>
 Passionate about <b>Security Blogging</b>, <b>CTFs</b>, and <b>Vulnerability Research</b>
 </p>
