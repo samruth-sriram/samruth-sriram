@@ -1,16 +1,11 @@
-<!-- ===================== TOP BANNER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=220&section=header"/>
-</p>
-
 <!-- ===================== ANIMATED INTRO ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00FFD1&center=true&vCenter=true&width=600&lines=Security+Engineer;Web+%7C+Mobile+%7C+API+Penetration+Testing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00FFD1&center=true&vCenter=true&width=600&lines=I+am+Samruth+Sriram;Security+Engineer;Web+%7C+Mobile+%7C+API+Penetration+Testing" />
 </p>
 
 <!-- ===================== SHORT DESCRIPTION ===================== -->
 <p align="center">
-<b>Security Engineer</b> specializing in <b>Web, Mobile (Android), and API Penetration Testing</b>.  
+<b>Security Engineer</b> specializing in <b>Web, Mobile (Android), API and Network Penetration Testing</b>.  
 Hands-on experience in real-world VAPT engagements, public CTFs, and security research —  
 focused on identifying impactful vulnerabilities and communicating risk effectively.
 </p>
@@ -41,7 +36,7 @@ focused on identifying impactful vulnerabilities and communicating risk effectiv
 <!-- ===================== ASK ME ABOUT ===================== -->
 ### 💬 Ask Me About
 - Web Application Penetration Testing  
-- API Security (IDOR, Authorization & Business Logic flaws)  
+- Network & API Security 
 - Android Application Penetration Testing  
 - CTF methodologies & practical exploitation  
 - Writing clear, actionable penetration testing reports  
@@ -67,7 +62,7 @@ and collaborative security research opportunities.
 
 <!-- ===================== CONNECT ===================== -->
 ### 📫 Connect With Me
-<p>
+<p align="center">
   <a href="https://linkedin.com/in/samruthsriram-cybersecurity">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
@@ -77,11 +72,6 @@ and collaborative security research opportunities.
   <a href="https://github.com/samruth-sriram">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
-</p>
-
-<!-- ===================== BOTTOM BANNER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=180&section=footer&text=Samruth%20Sriram&fontSize=32&fontColor=00FFD1&desc=Security%20Engineer%20%7C%20Penetration%20Tester&descAlignY=75"/>
 </p>
 
 
